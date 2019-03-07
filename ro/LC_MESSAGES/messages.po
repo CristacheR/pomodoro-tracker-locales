@@ -21,246 +21,246 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 msgid "%1$s left"
-msgstr ""
+msgstr "%1$s rămas"
 
 msgid "%1$s records were imported"
-msgstr ""
+msgstr "%1$s inregistrari au fost importate"
 
 #, python-format
 msgid "%s here's your Daily report for %s"
-msgstr ""
+msgstr "%s aici e raportul zilnic pentru %s"
 
 msgid "Activities"
-msgstr ""
+msgstr "Activități"
 
 msgid "Activity by days"
-msgstr ""
+msgstr "Activitate pe zile"
 
 msgid "Activity by months"
-msgstr ""
+msgstr "Activitate pe luni"
 
 msgid "Activity by weeks"
-msgstr ""
+msgstr "Activitate pe săptămâni"
 
 msgid "Add"
-msgstr ""
+msgstr "Adaugă"
 
 msgid "Add Activity"
-msgstr ""
+msgstr "Adauga Activitate"
 
 msgid "Add TODO"
-msgstr ""
+msgstr "Adaugă DEFĂCUT"
 
 msgid "Add category"
-msgstr ""
+msgstr "Adaugă categorie"
 
 msgid "Add more"
-msgstr ""
+msgstr "Adaugă mai mult"
 
 msgid "Add to TODO"
-msgstr ""
+msgstr "Adaugă la DEFĂCUT"
 
 msgid "Alleviate anxiety linked to beginning"
-msgstr ""
+msgstr "Reduceți anxietatea legată de început"
 
 msgid "Application"
-msgstr ""
+msgstr "Cerere"
 
 msgid "Apply"
-msgstr ""
+msgstr "Aplică"
 
 msgid "April"
-msgstr ""
+msgstr "Aprilie"
 
 msgid "Are you sure want to delete"
-msgstr ""
+msgstr "Esti sigur că vrei să ștergi"
 
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
-msgstr ""
+msgstr "La începutul fiecărei zile selectează sarcinile pe care vrei să le rezolvi și pune-le în lista DEFĂCUT de mai sus"
 
 msgid "At time"
-msgstr ""
+msgstr "La timp"
 
 msgid "August"
-msgstr ""
+msgstr "August"
 
 msgid "Auto start breaks"
-msgstr ""
+msgstr "Auto start pauze"
 
 msgid "Auto start pomodoros"
-msgstr ""
+msgstr "Auto start pomodoros"
 
 msgid "Bolster the determination to achieve your goals"
-msgstr ""
+msgstr "Obțineți determinarea de a vă atinge obiectivele"
 
 msgid "Boost motivation and keep it constant"
-msgstr ""
+msgstr "Măriți motivare și mențineți-o constantă"
 
 msgid "Break is over."
-msgstr ""
+msgstr "Pauza s-a terminat"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Anulează"
 
 msgid "Categories"
-msgstr ""
+msgstr "Categorii"
 
 msgid "Category"
-msgstr ""
+msgstr "Categorie"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "Modificări salvate"
 
 msgid "Clear DONE history once per day"
-msgstr ""
+msgstr "Golește istoricul DEFĂCUT o dată pe zi"
 
 msgid "Clear the list"
-msgstr ""
+msgstr "Golește lista"
 
 msgid "Click on a number to add more."
-msgstr ""
+msgstr "Click pe un număr să adaugi mai mult."
 
 msgid "Click/tap to edit items."
-msgstr ""
+msgstr "Click/apasă să editezi articole"
 
 msgid "Close"
-msgstr ""
+msgstr "Închide"
 
 msgid "Code"
-msgstr ""
+msgstr "Cod"
 
 msgid "Configure"
-msgstr ""
+msgstr "Configurare"
 
 msgid "Congratulations! You have finished all your tasks."
-msgstr ""
+msgstr "Felicitări! Ai terminat toate sarcinile"
 
 msgid "Connect"
-msgstr ""
+msgstr "Conectează"
 
 msgid "Create"
-msgstr ""
+msgstr "Creează"
 
 msgid "Create a category"
-msgstr ""
+msgstr "Creeză o categorie"
 
 msgid "Custom"
-msgstr ""
+msgstr "Personalizat"
 
 msgid "DONE"
-msgstr ""
+msgstr "REZOLVAT"
 
 msgid "Daily Goal"
-msgstr ""
+msgstr "Țel zilnic"
 
 msgid "Date"
-msgstr ""
+msgstr "Dată"
 
 msgid "Date format"
-msgstr ""
+msgstr "Format dată"
 
 msgid "December"
-msgstr ""
+msgstr "Decembrie"
 
 msgid "Description"
-msgstr ""
+msgstr "Descriere"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "Deconectare"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr ""
+msgstr "Nu începe următorul pomodoro dacă DEFĂCUT e goală"
 
 msgid "Done"
-msgstr ""
+msgstr "Rezolvat"
 
 msgid "Drag&Drop/Touch to sort items."
-msgstr ""
+msgstr "Trage/Atinge să sortezi articolele"
 
 msgid "Edit"
-msgstr ""
+msgstr "Editează"
 
 msgid "Enable Browser Alerts"
-msgstr ""
+msgstr "Activează alertele în browser"
 
 msgid "Enable Telegram Notifications"
-msgstr ""
+msgstr "Activează notificările Telegram"
 
 msgid "Enable Web Notifications"
-msgstr ""
+msgstr "Activează notificările web"
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr ""
 
 msgid "Export the records as CSV"
-msgstr ""
+msgstr "Exportă ănregistrările ca CSV"
 
 msgid "Favorites"
-msgstr ""
+msgstr "Favorite"
 
 msgid "February"
-msgstr ""
+msgstr "Februarie"
 
 msgid "Feedback"
-msgstr ""
+msgstr "Părere"
 
 msgid "Great work! TODO list is empty."
-msgstr ""
+msgstr "Bună treabă! Lista DEFĂCUT e goală"
 
 msgid "Hide notificaions"
-msgstr ""
+msgstr "Ascunde notificările"
 
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr ""
+msgstr "Dacă o sarcină necesită mai mult de 5-7 Pomodoros, împarte-o"
 
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
-msgstr ""
-
+msgstr "Dacă necesită mai puțin de o Pomodoro, adaugă și combină cu"
+"altă sarcină"
 msgid "Import records from CSV"
-msgstr ""
+msgstr "Importă înregistrări din CSV"
 
 msgid "Import was failed. Check your CSV and try again."
-msgstr ""
+msgstr "Importul a eșuat. Verifică CSV-ul și încearcă din nou"
 
 msgid "Imported from External Sources"
-msgstr ""
+msgstr "Importat din surse externe"
 
 msgid "Improve your work or study process"
-msgstr ""
+msgstr "Îmbunătățește munca sau procesul de studiu"
 
 msgid "Increase awareness of your decisions"
-msgstr ""
+msgstr "Creșteți gradul de conștientizare a deciziilor tale."
 
 msgid "Integration with Facebook"
-msgstr ""
+msgstr "Integrare cu Facebook"
 
 msgid "Integration with Github"
-msgstr ""
+msgstr "Integrare cu Github"
 
 msgid "Integration with Google"
-msgstr ""
+msgstr "Integrare cu Google"
 
 msgid "Integration with Telegram"
 msgstr ""
 
 msgid "Integrations"
-msgstr ""
+msgstr "Integrări"
 
 msgid "January"
-msgstr ""
+msgstr "Ianuarie"
 
 msgid "Join the global rating"
 msgstr ""
 
 msgid "July"
-msgstr ""
+msgstr "Iulie"
 
 msgid "June"
-msgstr ""
+msgstr "Iunie"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -268,106 +268,106 @@ msgid ""
 msgstr ""
 
 msgid "Language"
-msgstr ""
+msgstr "Limbă"
 
 msgid "Last 180 days"
-msgstr ""
+msgstr "Ultimele 180 de zile"
 
 msgid "Last 90 days"
-msgstr ""
+msgstr "Ultimele 90 de zile"
 
 msgid "Last Month"
-msgstr ""
+msgstr "Ultima lună"
 
 msgid "Last Quarter"
-msgstr ""
+msgstr "Ultimul trimestru"
 
 msgid "Last Week"
-msgstr ""
+msgstr "Ultima săptămână"
 
 msgid "Like"
-msgstr ""
+msgstr "Îmi place"
 
 msgid "Load daily tasks from Google Calendar"
-msgstr ""
+msgstr "Încarcă sarcinile zilnice din Calendarul Google"
 
 msgid "Loading"
-msgstr ""
+msgstr "Se încarcă"
 
 msgid "Login to the service and track your progress"
-msgstr ""
+msgstr "Conectează-te și urmărește-ți progresul"
 
 msgid "Login to the service using Facebook authentication."
-msgstr ""
+msgstr "Conectează-te folosind autentificarea Facebook."
 
 msgid "Login to the service using Github authentication."
-msgstr ""
+msgstr "Conectează-te folosind autentificarea Github."
 
 msgid "Login to the service using Google Authentication"
-msgstr ""
+msgstr "Conectează-te folosind autentificarea Google."
 
 msgid "Logout"
-msgstr ""
+msgstr "Deconectare"
 
 msgid "Long break delay:"
-msgstr ""
+msgstr "Amânare pauză lungă:"
 
 msgid "Long break duration:"
-msgstr ""
+msgstr "Durata pauzei lungi:"
 
 msgid "March"
-msgstr ""
+msgstr "Martie"
 
 msgid "Mark as daily task"
-msgstr ""
+msgstr "Marchează ca sarcină zilnică "
 
 msgid "Mark as done"
-msgstr ""
+msgstr "Marchează ca rezolvată"
 
 msgid "May"
-msgstr ""
+msgstr "Mai"
 
 msgid "Median per day"
-msgstr ""
+msgstr "Media pe zi"
 
 msgid "New"
-msgstr ""
+msgstr "Nou"
 
 msgid "Notification Test"
-msgstr ""
+msgstr "Notificare test"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Notificări"
 
 msgid "Notify when there is one minute left"
-msgstr ""
+msgstr "Anunță-mă când mai e un minut rămas"
 
 msgid "November"
-msgstr ""
+msgstr "Noiembrie"
 
 msgid "October"
-msgstr ""
+msgstr "Octombrie"
 
 msgid "Of those"
 msgstr ""
 
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr ""
+msgstr "Odată ce Pomodoro începe, trebuie să sune"
 
 msgid "One minute left"
-msgstr ""
+msgstr "Un minut rămas"
 
 msgid "PAUSE"
-msgstr ""
+msgstr "PAUZĂ"
 
 msgid "POMODORO"
-msgstr ""
+msgstr "POMODORO"
 
 msgid "Pause"
-msgstr ""
+msgstr "Pauză"
 
 msgid "Pin to favorites"
-msgstr ""
+msgstr "Adaugă la favorite"
 
 msgid "Play alarm sound"
 msgstr ""
@@ -388,28 +388,28 @@ msgid "Please, login to view your stats"
 msgstr ""
 
 msgid "Pomodoro duration:"
-msgstr ""
+msgstr "Durată pomodoro:"
 
 msgid "Pomodoro is finished."
-msgstr ""
+msgstr "Pomodoro s-a terminat."
 
 msgid "Preferences"
-msgstr ""
+msgstr "Preferințe"
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Politica de Confidențialitate"
 
 msgid "Provide Feedback"
 msgstr ""
 
 msgid "Quit"
-msgstr ""
+msgstr "Ieșire"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr ""
 
 msgid "Records are empty"
-msgstr ""
+msgstr "Înregistrările sunt goale"
 
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
 msgstr ""
@@ -424,61 +424,61 @@ msgid "Reports Time"
 msgstr ""
 
 msgid "Reports and notifications"
-msgstr ""
+msgstr "Rapoarte și notificări"
 
 msgid "Resume"
-msgstr ""
+msgstr "Reia"
 
 msgid "Rules & Tips"
 msgstr ""
 
 msgid "SKIP"
-msgstr ""
+msgstr "SARI"
 
 msgid "STOP"
-msgstr ""
+msgstr "STOP"
 
 msgid "Schemes"
-msgstr ""
+msgstr "Scheme"
 
 msgid "Send reports on email: "
-msgstr ""
+msgstr "Trimite rapoarte pe email:"
 
 msgid "Send reports on telegram"
-msgstr ""
+msgstr "Trimite rapoarte pe Telegram"
 
 msgid "Send test notification"
-msgstr ""
+msgstr "Trimite notificare test"
 
 msgid "September"
-msgstr ""
+msgstr "Septembrie"
 
 msgid "Server has been updated."
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "Setări"
 
 msgid "Short break duration:"
-msgstr ""
+msgstr "Durată pauză scurtă:"
 
 msgid "Short description"
-msgstr ""
+msgstr "Scurtă descriere"
 
 msgid "Show window"
-msgstr ""
+msgstr "Arată ferestră"
 
 msgid "Sign Up / Login"
-msgstr ""
+msgstr "Înregistrează-te/Conectează-te"
 
 msgid "Skip"
-msgstr ""
+msgstr "Sari"
 
 msgid "Sort by"
-msgstr ""
+msgstr "Sortează după"
 
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 msgid "Start the Pomodoro timer"
 msgstr ""
@@ -490,7 +490,7 @@ msgid "Stats"
 msgstr ""
 
 msgid "Stop"
-msgstr ""
+msgstr "Stop"
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -498,22 +498,22 @@ msgid ""
 msgstr ""
 
 msgid "Support the Project"
-msgstr ""
+msgstr "Susține Proiectul"
 
 msgid "Sync with Google Tasks"
 msgstr ""
 
 msgid "TODO"
-msgstr ""
+msgstr "DEFĂCUT"
 
 msgid "TODO list is empty"
-msgstr ""
+msgstr "Lista DEFĂCUT e goală"
 
 msgid "TODO list was updated."
-msgstr ""
+msgstr "Lista DEFĂCUT a fost actualizată"
 
 msgid "Take a short break (3-5 minutes)"
-msgstr ""
+msgstr "Ia o pauză scurtă (3-5 minute)"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr ""
@@ -522,7 +522,7 @@ msgid "The Basics"
 msgstr ""
 
 msgid "The Goals"
-msgstr ""
+msgstr "Sarcinile"
 
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
@@ -558,37 +558,37 @@ msgid "The next pomodoro will go better!"
 msgstr ""
 
 msgid "Theme"
-msgstr ""
+msgstr "Temă"
 
 msgid "There are completed tasks"
-msgstr ""
+msgstr "Sunt sarcini terminate"
 
 msgid "This Month"
-msgstr ""
+msgstr "Luna aceasta"
 
 msgid "This Quarter"
-msgstr ""
+msgstr "Trimestrul acesta"
 
 msgid "This Week"
-msgstr ""
+msgstr "Săptămâna aceasta"
 
 msgid "Time"
-msgstr ""
+msgstr "Timp"
 
 msgid "Time format"
-msgstr ""
+msgstr "Format timp"
 
 msgid "Time spent"
-msgstr ""
+msgstr "Timp petrecut"
 
 msgid "Time zone"
-msgstr ""
+msgstr "Fus orar"
 
 msgid "Timer"
 msgstr ""
 
 msgid "Title"
-msgstr ""
+msgstr "Titlu"
 
 msgid "Toggle fullscreen"
 msgstr ""
@@ -609,199 +609,199 @@ msgid "Tune the timer"
 msgstr ""
 
 msgid "View"
-msgstr ""
+msgstr "Vezi"
 
 msgid "Volume"
-msgstr ""
+msgstr "Volum"
 
 msgid "What is it?"
-msgstr ""
+msgstr "Ce este?"
 
 msgid "Work days"
-msgstr ""
+msgstr "Zile lucrătoare"
 
 msgid "Work history won`t be saved."
 msgstr ""
 
 msgid "Work until the Pomodoro rings"
-msgstr ""
+msgstr "Lucrează până când Pomodoro sună"
 
 msgid "Write your ideas here"
-msgstr ""
+msgstr "Scrieți ideile aici"
 
 msgid "Yesterday"
-msgstr ""
+msgstr "Ieri"
 
 msgid "You are not signed."
-msgstr ""
+msgstr "Nu ești conectat."
 
 msgid "You spent"
-msgstr ""
+msgstr "Ai petrecut"
 
 msgid "and"
-msgstr ""
+msgstr "și"
 
 msgid "as Facebook user"
-msgstr ""
+msgstr "ca utilizator Facebook"
 
 msgid "as Github user"
-msgstr ""
+msgstr "ca utilizator Github"
 
 msgid "as Google user"
 msgstr ""
 
 msgid "auto"
-msgstr ""
+msgstr "auto"
 
 msgid "average"
-msgstr ""
+msgstr "mediu"
 
 msgid "cancel"
-msgstr ""
+msgstr "anulează"
 
 msgid "close"
-msgstr ""
+msgstr "închide"
 
 msgid "created"
-msgstr ""
+msgstr "creat"
 
 msgid "dark"
-msgstr ""
+msgstr "întunecat"
 
 msgid "day"
 msgid_plural "days"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "zile"
+msgstr[1] "zi"
+msgstr[2] "zile"
 
 msgid "delay"
-msgstr ""
+msgstr "întârziere"
 
 msgid "delays"
-msgstr ""
+msgstr "întărzieri"
 
 msgid "delete"
-msgstr ""
+msgstr "șterge"
 
 msgid "focus"
-msgstr ""
+msgstr "concentrare"
 
 msgid "for all time"
-msgstr ""
+msgstr "pentru tot timpul"
 
 msgid "global"
-msgstr ""
+msgstr "global"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "ore"
+msgstr[1] "oră"
+msgstr[2] "ore"
 
 msgid "in 10 seconds"
-msgstr ""
+msgstr "în 10 secunde"
 
 msgid "in 2 seconds"
-msgstr ""
+msgstr "în 2 secunde"
 
 msgid "in 3 seconds"
-msgstr ""
+msgstr "în 3 secunde"
 
 msgid "in 5 seconds"
-msgstr ""
+msgstr "în 5 secunde"
 
 msgid "in minutes"
-msgstr ""
+msgstr "în minute"
 
 msgid "in pomodoros"
-msgstr ""
+msgstr "în pomodoros"
 
 msgid "light"
-msgstr ""
+msgstr "luminos"
 
 msgid "like"
 msgid_plural "likes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "like-uri"
+msgstr[1] "like"
+msgstr[2] "like-uri"
 
 msgid "median"
-msgstr ""
+msgstr "median"
 
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "minute"
+msgstr[1] "minut"
+msgstr[2] "minute"
 
 msgid "month"
 msgid_plural "months"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "luni"
+msgstr[1] "lună"
+msgstr[2] "luni"
 
 msgid "next page"
-msgstr ""
+msgstr "următoarea pagină"
 
 msgid "no description"
-msgstr ""
+msgstr "nicio descriere"
 
 msgid "number"
-msgstr ""
+msgstr "număr"
 
 msgid "on"
-msgstr ""
+msgstr "on"
 
 msgid "personal"
-msgstr ""
+msgstr "personal"
 
 msgid "pomodoro"
 msgid_plural "pomodoros"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "pomodoro"
+msgstr[1] "pomodoro"
+msgstr[2] "pomodoro-uri"
 
 msgid "pomodoros"
-msgstr ""
+msgstr "pomodoro-uri"
 
 msgid "previous page"
-msgstr ""
+msgstr "pagina anterioară"
 
 msgid "quarter"
-msgstr ""
+msgstr "trimestru"
 
 msgid "rating"
-msgstr ""
+msgstr "Evaluare"
 
 msgid "record"
-msgstr ""
+msgstr "înregistrare"
 
 msgid "refresh"
-msgstr ""
+msgstr "refresh"
 
 msgid "registered users spend on completing pomodoros"
-msgstr ""
+msgstr "utilizatori înregistrați au petrecut pentru a completa pomodoro-urile"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr ""
+msgstr "utilizatori înregistrați aupetrecut astăzi pentru finalizarea pomodoro-urilor "
 
 msgid "resume"
-msgstr ""
+msgstr "reia"
 
 msgid "save"
-msgstr ""
+msgstr "salvează"
 
 msgid "start"
-msgstr ""
+msgstr "start"
 
 msgid "take a long break"
-msgstr ""
+msgstr "Ia o pauză lungă"
 
 msgid "take a short break"
-msgstr ""
+msgstr "Ia o pauză scurtă"
 
 msgid "time"
-msgstr ""
+msgstr "timp"
 
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
@@ -809,22 +809,22 @@ msgid ""
 msgstr ""
 
 msgid "today"
-msgstr ""
+msgstr "astăzi"
 
 msgid "user"
-msgstr ""
+msgstr "utilizator"
 
 msgid "version"
-msgstr ""
+msgstr "versiune"
 
 msgid "week"
-msgstr ""
+msgstr "săptămână"
 
 msgid "were"
 msgstr ""
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "ani"
+msgstr[1] "an"
+msgstr[2] "ani"
